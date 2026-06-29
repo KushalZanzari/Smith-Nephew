@@ -302,8 +302,3 @@ if data source paths need to be updated.
 - Predictive forecasting integration.
 
 ---
-
-
----
-
-## ⭐ If you found this project helpful, please consider giving it a star.
